@@ -1,0 +1,194 @@
+country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol,region,sub-region
+Afghanistan,0,0,0,0.0,Asia,Southern Asia
+Albania,89,132,54,4.9,Europe,Southern Europe
+Algeria,25,0,14,0.7,Africa,Northern Africa
+Andorra,245,138,312,12.4,Europe,Southern Europe
+Angola,217,57,45,5.9,Africa,Sub-Saharan Africa
+Antigua & Barbuda,102,128,45,4.9,,
+Argentina,193,25,221,8.3,Americas,Latin America and the Caribbean
+Armenia,21,179,11,3.8,Asia,Western Asia
+Australia,261,72,212,10.4,Oceania,Australia and New Zealand
+Austria,279,75,191,9.7,Europe,Western Europe
+Azerbaijan,21,46,5,1.3,Asia,Western Asia
+Bahamas,122,176,51,6.3,Americas,Latin America and the Caribbean
+Bahrain,42,63,7,2.0,Asia,Western Asia
+Bangladesh,0,0,0,0.0,Asia,Southern Asia
+Barbados,143,173,36,6.3,Americas,Latin America and the Caribbean
+Belarus,142,373,42,14.4,Europe,Eastern Europe
+Belgium,295,84,212,10.5,Europe,Western Europe
+Belize,263,114,8,6.8,Americas,Latin America and the Caribbean
+Benin,34,4,13,1.1,Africa,Sub-Saharan Africa
+Bhutan,23,0,0,0.4,Asia,Southern Asia
+Bolivia,167,41,8,3.8,,
+Bosnia-Herzegovina,76,173,8,4.6,,
+Botswana,173,35,35,5.4,Africa,Sub-Saharan Africa
+Brazil,245,145,16,7.2,Americas,Latin America and the Caribbean
+Brunei,31,2,1,0.6,,
+Bulgaria,231,252,94,10.3,Europe,Eastern Europe
+Burkina Faso,25,7,7,4.3,Africa,Sub-Saharan Africa
+Burundi,88,0,0,6.3,Africa,Sub-Saharan Africa
+Cote d'Ivoire,37,1,7,4.0,,
+Cabo Verde,144,56,16,4.0,Africa,Sub-Saharan Africa
+Cambodia,57,65,1,2.2,Asia,South-eastern Asia
+Cameroon,147,1,4,5.8,Africa,Sub-Saharan Africa
+Canada,240,122,100,8.2,Americas,Northern America
+Central African Republic,17,2,1,1.8,Africa,Sub-Saharan Africa
+Chad,15,1,1,0.4,Africa,Sub-Saharan Africa
+Chile,130,124,172,7.6,Americas,Latin America and the Caribbean
+China,79,192,8,5.0,Asia,Eastern Asia
+Colombia,159,76,3,4.2,Americas,Latin America and the Caribbean
+Comoros,1,3,1,0.1,Africa,Sub-Saharan Africa
+Congo,76,1,9,1.7,Africa,Sub-Saharan Africa
+Cook Islands,0,254,74,5.9,Oceania,Polynesia
+Costa Rica,149,87,11,4.4,Americas,Latin America and the Caribbean
+Croatia,230,87,254,10.2,Europe,Southern Europe
+Cuba,93,137,5,4.2,Americas,Latin America and the Caribbean
+Cyprus,192,154,113,8.2,Asia,Western Asia
+Czech Republic,361,170,134,11.8,,
+North Korea,0,0,0,0.0,,
+DR Congo,32,3,1,2.3,,
+Denmark,224,81,278,10.4,Europe,Northern Europe
+Djibouti,15,44,3,1.1,Africa,Sub-Saharan Africa
+Dominica,52,286,26,6.6,Americas,Latin America and the Caribbean
+Dominican Republic,193,147,9,6.2,Americas,Latin America and the Caribbean
+Ecuador,162,74,3,4.2,Americas,Latin America and the Caribbean
+Egypt,6,4,1,0.2,Africa,Northern Africa
+El Salvador,52,69,2,2.2,Americas,Latin America and the Caribbean
+Equatorial Guinea,92,0,233,5.8,Africa,Sub-Saharan Africa
+Eritrea,18,0,0,0.5,Africa,Sub-Saharan Africa
+Estonia,224,194,59,9.5,Europe,Northern Europe
+Ethiopia,20,3,0,0.7,Africa,Sub-Saharan Africa
+Fiji,77,35,1,2.0,Oceania,Melanesia
+Finland,263,133,97,10.0,Europe,Northern Europe
+France,127,151,370,11.8,Europe,Western Europe
+Gabon,347,98,59,8.9,Africa,Sub-Saharan Africa
+Gambia,8,0,1,2.4,Africa,Sub-Saharan Africa
+Georgia,52,100,149,5.4,Asia,Western Asia
+Germany,346,117,175,11.3,Europe,Western Europe
+Ghana,31,3,10,1.8,Africa,Sub-Saharan Africa
+Greece,133,112,218,8.3,Europe,Southern Europe
+Grenada,199,438,28,11.9,Americas,Latin America and the Caribbean
+Guatemala,53,69,2,2.2,Americas,Latin America and the Caribbean
+Guinea,9,0,2,0.2,Africa,Sub-Saharan Africa
+Guinea-Bissau,28,31,21,2.5,Africa,Sub-Saharan Africa
+Guyana,93,302,1,7.1,Americas,Latin America and the Caribbean
+Haiti,1,326,1,5.9,Americas,Latin America and the Caribbean
+Honduras,69,98,2,3.0,Americas,Latin America and the Caribbean
+Hungary,234,215,185,11.3,Europe,Eastern Europe
+Iceland,233,61,78,6.6,Europe,Northern Europe
+India,9,114,0,2.2,Asia,Southern Asia
+Indonesia,5,1,0,0.1,Asia,South-eastern Asia
+Iran,0,0,0,0.0,,
+Iraq,9,3,0,0.2,Asia,Western Asia
+Ireland,313,118,165,11.4,Europe,Northern Europe
+Israel,63,69,9,2.5,Asia,Western Asia
+Italy,85,42,237,6.5,Europe,Southern Europe
+Jamaica,82,97,9,3.4,Americas,Latin America and the Caribbean
+Japan,77,202,16,7.0,Asia,Eastern Asia
+Jordan,6,21,1,0.5,Asia,Western Asia
+Kazakhstan,124,246,12,6.8,Asia,Central Asia
+Kenya,58,22,2,1.8,Africa,Sub-Saharan Africa
+Kiribati,21,34,1,1.0,Oceania,Micronesia
+Kuwait,0,0,0,0.0,Asia,Western Asia
+Kyrgyzstan,31,97,6,2.4,Asia,Central Asia
+Laos,62,0,123,6.2,,
+Latvia,281,216,62,10.5,Europe,Northern Europe
+Lebanon,20,55,31,1.9,Asia,Western Asia
+Lesotho,82,29,0,2.8,Africa,Sub-Saharan Africa
+Liberia,19,152,2,3.1,Africa,Sub-Saharan Africa
+Libya,0,0,0,0.0,Africa,Northern Africa
+Lithuania,343,244,56,12.9,Europe,Northern Europe
+Luxembourg,236,133,271,11.4,Europe,Western Europe
+Madagascar,26,15,4,0.8,Africa,Sub-Saharan Africa
+Malawi,8,11,1,1.5,Africa,Sub-Saharan Africa
+Malaysia,13,4,0,0.3,Asia,South-eastern Asia
+Maldives,0,0,0,0.0,Asia,Southern Asia
+Mali,5,1,1,0.6,Africa,Sub-Saharan Africa
+Malta,149,100,120,6.6,Europe,Southern Europe
+Marshall Islands,0,0,0,0.0,Oceania,Micronesia
+Mauritania,0,0,0,0.0,Africa,Sub-Saharan Africa
+Mauritius,98,31,18,2.6,Africa,Sub-Saharan Africa
+Mexico,238,68,5,5.5,Americas,Latin America and the Caribbean
+Micronesia,62,50,18,2.3,,
+Monaco,0,0,0,0.0,Europe,Western Europe
+Mongolia,77,189,8,4.9,Asia,Eastern Asia
+Montenegro,31,114,128,4.9,Europe,Southern Europe
+Morocco,12,6,10,0.5,Africa,Northern Africa
+Mozambique,47,18,5,1.3,Africa,Sub-Saharan Africa
+Myanmar,5,1,0,0.1,Asia,South-eastern Asia
+Namibia,376,3,1,6.8,Africa,Sub-Saharan Africa
+Nauru,49,0,8,1.0,Oceania,Micronesia
+Nepal,5,6,0,0.2,Asia,Southern Asia
+Netherlands,251,88,190,9.4,Europe,Western Europe
+New Zealand,203,79,175,9.3,Oceania,Australia and New Zealand
+Nicaragua,78,118,1,3.5,Americas,Latin America and the Caribbean
+Niger,3,2,1,0.1,Africa,Sub-Saharan Africa
+Nigeria,42,5,2,9.1,Africa,Sub-Saharan Africa
+Niue,188,200,7,7.0,Oceania,Polynesia
+Norway,169,71,129,6.7,Europe,Northern Europe
+Oman,22,16,1,0.7,Asia,Western Asia
+Pakistan,0,0,0,0.0,Asia,Southern Asia
+Palau,306,63,23,6.9,Oceania,Micronesia
+Panama,285,104,18,7.2,Americas,Latin America and the Caribbean
+Papua New Guinea,44,39,1,1.5,Oceania,Melanesia
+Paraguay,213,117,74,7.3,Americas,Latin America and the Caribbean
+Peru,163,160,21,6.1,Americas,Latin America and the Caribbean
+Philippines,71,186,1,4.6,Asia,South-eastern Asia
+Poland,343,215,56,10.9,Europe,Eastern Europe
+Portugal,194,67,339,11.0,Europe,Southern Europe
+Qatar,1,42,7,0.9,Asia,Western Asia
+South Korea,140,16,9,9.8,,
+Moldova,109,226,18,6.3,,
+Romania,297,122,167,10.4,Europe,Eastern Europe
+Russian Federation,247,326,73,11.5,Europe,Eastern Europe
+Rwanda,43,2,0,6.8,Africa,Sub-Saharan Africa
+St. Kitts & Nevis,194,205,32,7.7,,
+St. Lucia,171,315,71,10.1,,
+St. Vincent & the Grenadines,120,221,11,6.3,,
+Samoa,105,18,24,2.6,Oceania,Polynesia
+San Marino,0,0,0,0.0,Europe,Southern Europe
+Sao Tome & Principe,56,38,140,4.2,,
+Saudi Arabia,0,5,0,0.1,Asia,Western Asia
+Senegal,9,1,7,0.3,Africa,Sub-Saharan Africa
+Serbia,283,131,127,9.6,Europe,Southern Europe
+Seychelles,157,25,51,4.1,Africa,Sub-Saharan Africa
+Sierra Leone,25,3,2,6.7,Africa,Sub-Saharan Africa
+Singapore,60,12,11,1.5,Asia,South-eastern Asia
+Slovakia,196,293,116,11.4,Europe,Eastern Europe
+Slovenia,270,51,276,10.6,Europe,Southern Europe
+Solomon Islands,56,11,1,1.2,Oceania,Melanesia
+Somalia,0,0,0,0.0,Africa,Sub-Saharan Africa
+South Africa,225,76,81,8.2,Africa,Sub-Saharan Africa
+Spain,284,157,112,10.0,Europe,Southern Europe
+Sri Lanka,16,104,0,2.2,Asia,Southern Asia
+Sudan,8,13,0,1.7,Africa,Northern Africa
+Suriname,128,178,7,5.6,Americas,Latin America and the Caribbean
+Swaziland,90,2,2,4.7,,
+Sweden,152,60,186,7.2,Europe,Northern Europe
+Switzerland,185,100,280,10.2,Europe,Western Europe
+Syria,5,35,16,1.0,,
+Tajikistan,2,15,0,0.3,Asia,Central Asia
+Thailand,99,258,1,6.4,Asia,South-eastern Asia
+Macedonia,106,27,86,3.9,,
+Timor-Leste,1,1,4,0.1,Asia,South-eastern Asia
+Togo,36,2,19,1.3,Africa,Sub-Saharan Africa
+Tonga,36,21,5,1.1,Oceania,Polynesia
+Trinidad & Tobago,197,156,7,6.4,,
+Tunisia,51,3,20,1.3,Africa,Northern Africa
+Turkey,51,22,7,1.4,Asia,Western Asia
+Turkmenistan,19,71,32,2.2,Asia,Central Asia
+Tuvalu,6,41,9,1.0,Oceania,Polynesia
+Uganda,45,9,0,8.3,Africa,Sub-Saharan Africa
+Ukraine,206,237,45,8.9,Europe,Eastern Europe
+United Arab Emirates,16,135,5,2.8,Asia,Western Asia
+United Kingdom,219,126,195,10.4,,
+Tanzania,36,6,1,5.7,,
+USA,249,158,84,8.7,,
+Uruguay,115,35,220,6.6,Americas,Latin America and the Caribbean
+Uzbekistan,25,101,8,2.4,Asia,Central Asia
+Vanuatu,21,18,11,0.9,Oceania,Melanesia
+Venezuela,333,100,3,7.7,,
+Vietnam,111,2,1,2.0,,
+Yemen,6,0,0,0.1,Asia,Western Asia
+Zambia,32,19,4,2.5,Africa,Sub-Saharan Africa
+Zimbabwe,64,18,4,4.7,Africa,Sub-Saharan Africa
